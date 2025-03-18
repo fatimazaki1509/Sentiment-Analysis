@@ -6,5 +6,6 @@ torchaudio==2.0.2
 transformers
 streamlit
 !pip install torch torchvision torchaudio transformers streamlit
-
-
+pip
+setuptools
+wheel
