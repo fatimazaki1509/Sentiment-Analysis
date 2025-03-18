@@ -1,4 +1,5 @@
 import streamlit as st
+!pip install torch torchvision torchaudio transformers streamlit
 import torch
 import torch.nn.functional as F
 from transformers import BertTokenizer, BertForSequenceClassification
